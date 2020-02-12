@@ -1,4 +1,9 @@
 # History files
+
+*.Rproj
+hidden_files/*
+*.DS_Store
+
 .Rhistory
 .Rapp.history
 
