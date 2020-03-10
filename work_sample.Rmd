@@ -109,6 +109,7 @@ If you didn't manage to compute the weight in the previous exercise, set the wei
 
 #### Task:
 - What are the key conclusions you can draw from data set? Give a brief description of the "needs" in the market. Is there a difference between different demographic groups or individuals prefering a specific brand?
+- Our client is brand4. What challenges do they face, according to the data you have and do you have a recommendation?
 
 **TIP**: The function `sjlabelled::get_label()` and `sjlabelled::as_label()` might be useful here.
 
